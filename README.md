@@ -13,13 +13,14 @@ An AutoHotkey script that automates the login process for the DEO NIWAS hotspot 
 
 - Windows operating system
 - [AutoHotkey v2](https://www.autohotkey.com/) installed
-- Default browser with saved DEO NIWAS login credentials
+- Default browser with saved DEO NIWAS Wifi login credentials
 
 ## Setup
 
-1. Download the `deo_niwas_login.ahk` script file
-2. Ensure your default browser has saved your DEO NIWAS login credentials
-3. Double-click the script file to run it
+1. Download the `login_script.exe` executable file
+2. Ensure your default browser has saved your DEO NIWAS Wifi login credentials
+3. Make sure you are connected with Deo Niwas Wifi
+4. Double-click the script file to run it
 
 ## Usage
 
@@ -40,7 +41,7 @@ Example: `^!l::` changes it to `Ctrl + Alt + L`
 
 ## Troubleshooting
 
-- Ensure stable internet connection
+- Ensure wifi connection
 - Verify saved credentials in your browser
 - If the login window isn't found, an error message will display
 
@@ -62,7 +63,9 @@ Use at your own risk. The author is not responsible for any issues arising from 
 
 ## Support
 
-For issues or questions, please open an issue in this repository.
+For issues or questions, please open an issue in this repository or contact:
+- **Email:** [mayankpandeydk123@gmail.com](mayankpandeydk123@gmail.com)
+- **Linkedin:** [Mayank Pandey](https://www.linkedin.com/in/onlinerecord-mayank/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deorepo&label=Repo%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
