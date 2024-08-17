@@ -44,6 +44,14 @@ Example: `^!l::` changes it to `Ctrl + Alt + L`
 - Verify saved credentials in your browser
 - If the login window isn't found, an error message will display
 
+## Startup Configuration
+
+The script attempts to set itself up to run at system startup. If this doesn't work automatically, you can:
+
+1. Locate the script's compiled `.exe` file in your startup folder (usually `C:\Users\[YourUsername]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`)
+2. Create a shortcut to this `.exe` file on your desktop
+3. Double-click the shortcut or the `.exe` file directly to run the script manually after startup
+
 ## Security Note
 
 This script uses your browser's saved credentials. Ensure your browser's security settings align with your preferences for storing login information.
