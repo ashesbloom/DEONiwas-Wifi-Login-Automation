@@ -65,4 +65,4 @@ Use at your own risk. The author is not responsible for any issues arising from 
 For issues or questions, please open an issue in this repository.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deoniwasrepo&icon=3&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=deorepo&label=Repo%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
