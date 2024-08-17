@@ -29,7 +29,7 @@ Press `Alt + W` to trigger the auto-login process.
 
 1. Checks if it's set up for system startup, if not, it self-configures
 2. Opens the DEO NIWAS login page in your default browser
-3. Waits for the page to load completely
+3. Waits for the page to load completely (by checking changes in pixels)
 4. Navigates through the form fields
 5. Positions the cursor on the submit button
 
