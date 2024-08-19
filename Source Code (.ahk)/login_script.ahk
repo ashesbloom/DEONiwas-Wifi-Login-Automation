@@ -48,17 +48,17 @@
     
     ; Proceed with the rest of the script
     Sleep tabDelay
-    Send "{Tab}"  ; Tabs to the password field
     Sleep tabDelay
     Send "{Down}"  ; Sends the down arrow key
-    Sleep downArrowDelay
+    send downArrowDelay ; Sleep downArrowDelay
     Send "{Down}"  ; Sends the down arrow key again
     Send "{Enter}"  ; Selects the password field
     Sleep enterDelay
-    Send "{Tab}"  ; Tabs to the submit button
+    send "{tab}"
     Sleep tabDelay
-    Send "{Tab}"  ; Tabs to the submit button again
+    send "{tab}"
     Sleep tabDelay
+    send "{Enter}"
     
     return  ; Exits the script
 }
