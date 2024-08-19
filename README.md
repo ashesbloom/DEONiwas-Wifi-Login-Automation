@@ -53,5 +53,7 @@ This script uses your browser's saved credentials. Ensure your browser's securit
 Use at your own risk. The author is not responsible for any issues arising from its use.
 
 ## Support
-
 For issues or questions, please open an issue in this repository.
+
+---
+[![](https://visitcount.itsvg.in/api?id=deowifirepo&label=Repo%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
